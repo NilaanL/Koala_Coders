@@ -1,6 +1,7 @@
-#CKD prediction ML Model
+# CKD prediction ML Model
 
-#Problem
+## Problem
+
 In the last two decades, chronic kidney disease of unknown etiology (CKDu) has emerged as a significant contributor
 to the burden of chronic kidney disease (CKD) in rural Sri Lanka. It is characterized by the absence of identified causes for CKD.
 The prevalence of CKDu is 15.1–22.9% in some Sri Lankan districts, and papers from renowned conferences have found an association
@@ -14,7 +15,8 @@ pregnant ladies and overweight people. This is an expensive test so this test ca
 come up with a solution which will act as a path breaker in the area of prevention and quality diagnosis from CKDu.
 
 
-#Solution
+## Solution
+
 The solution we are proposing is a machine learning model which has the ability to predict CKDu in the people who are affected/not affected by CKDu. 
 As a first step we are planning to implement this model as an pre-test for CKDu so if someone is tested and the result suggests that 
 they have high probability of CKDu in our test so they can be preceded to eGFR test. If the probability is low, they can avoid the eGFR 
